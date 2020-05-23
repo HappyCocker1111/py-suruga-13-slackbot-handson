@@ -374,3 +374,5 @@ rem herokuのアプリ名:今回はpysurugabot-[ランダム数字6桁]
 heroku git:remote -a [herokuのアプリ名]
 git push heroku master
 ```
+###　コメント
+アクションは正常に動くでしょうか？
